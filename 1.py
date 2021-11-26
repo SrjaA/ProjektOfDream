@@ -1,3 +1,5 @@
-git config --global user.email "you@example.com" git config --global user.name "Your Name"
-45y3hdfffffffffffffff
-ddddddddddddddd
+x=open('example2.txt','r')
+print(x.readline())
+#print(x.readline())
+print(x.readlines())
+help(open)
